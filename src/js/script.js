@@ -33,3 +33,20 @@ console.log(typeof ex4)
 
 let ex5= [];
 console.log(typeof ex5)
+
+//conversoes 
+// float pra string
+let numFloat = 123.456;
+console.log(numFloat.toString())
+
+//string para float
+let numString= "12.963"
+console.log(parseFloat(numString))
+
+//int para string
+let numInt = 2;
+console.log(numInt.toString())
+
+// string pra int
+let numString1= "12"
+console.log(parseInt(numString1))

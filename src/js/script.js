@@ -50,3 +50,18 @@ console.log(numInt.toString())
 // string pra int
 let numString1= "12"
 console.log(parseInt(numString1))
+
+// metodos
+//metodo length- verifica tamanho da string
+let frase = "o mundo da tecnologia"
+console.log(frase.length)
+
+// metodo indexof/lastindexof- retorna um trecho do seu codigo
+let texto = "programação sustentável"
+console.log(texto.indexOf("ão"))
+
+// metodo slice- retorna parte de um texto passando o inicio e o final
+let info ="programação de ponta"
+console.log(info.slice(15,20))
+
+// operadores aritimeticos

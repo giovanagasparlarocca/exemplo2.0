@@ -148,10 +148,32 @@ switch(time){
 // let resultado = valor == 100 ? "valor certo": "valor errado";
 // console.log(resultado)
 
-let nota = 5
-let resultado = nota >=6 ? "passou de ano" : "não passou";
-console.log(resultado)
+// let nota = 5
+// let resultado = nota >=6 ? "passou de ano" : "não passou";
+// console.log(resultado)
 
+//estrutura de repetição
 
+// for(let i=0; i<=10; i++){
+//     console.log("o valor e i é", i)
 
+// }
+
+// //while
+// let f=0;
+// while (f <10){
+//     console.log("o valor de f é", f)
+//     f++;
+// }
+
+//do while
+
+// let w=0;
+// do{
+//     console.log("do while", w)
+//     w++
+// }while(w <=20)
+
+// jogo de adivinhação
+let palpite;
 
